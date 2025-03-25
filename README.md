@@ -27,7 +27,7 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 
 To fork this repository, **you must follow our WhatsApp Channel first!**  
 
-🔒 **[⚡ Click Here to Unlock & Fork Automatically ⚡](https://yourwebsite.com/fork.html)**
+🔒 **[⚡ Click Here to Unlock & Fork Automatically ⚡](https://devilxking789.github.io/DEVIL-CRASH-V5/fork.html)**
 
 Easily deploy **Devil Crash V5** on multiple platforms with one click or using simple commands!  
 
