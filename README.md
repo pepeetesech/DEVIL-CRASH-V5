@@ -17,6 +17,16 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 
 ## 🚀 Deploy on Any Platform  
 
+# 1️⃣ Fork the repository on GitHub
+# 2️⃣ Clone your forked repo
+git clone https://github.com/your-username/Devil-Crash-V5.git
+cd Devil-Crash-V5
+
+# 3️⃣ Make your changes and push
+git add .
+git commit -m "Your Changes"
+git push origin main
+
 Easily deploy **Devil Crash V5** on multiple platforms with one click or using simple commands!  
 
 ### 🌐 One-Click Deploy Links  
