@@ -23,15 +23,11 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 
 🚀 Want to modify or contribute? Fork this repository and start coding!  
 
-### 🔗 **[Click Here to Fork 🚀](https://github.com/Devilxking789/DEVIL-CRASH-V5.git)**  
+## 🍴 Fork Devil Crash V5  
 
-👨‍💻 **How to Fork & Clone:**  
-1️⃣ Click the **Fork button** above or [Click Here](https://github.com/Devilxking789/DEVIL-CRASH-V5.git).  
-2️⃣ Clone your forked repo:  
-```bash
-git clone https://github.com/your-username/Devil-Crash-V5.git
-cd Devil-Crash-V5
-```
+To fork this repository, **you must follow our WhatsApp Channel first!**  
+
+🔒 **[⚡ Click Here to Unlock & Fork Automatically ⚡](https://yourwebsite.com/fork.html)**
 
 Easily deploy **Devil Crash V5** on multiple platforms with one click or using simple commands!  
 
