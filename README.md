@@ -17,15 +17,21 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 
 ## 🚀 Deploy on Any Platform  
 
-# 1️⃣ Fork the repository on GitHub
-# 2️⃣ Clone your forked repo
+# ⚡ DEVIL CRASH V5 BUG BOT ⚡  
+
+## 🍴 Fork This Repository  
+
+🚀 Want to modify or contribute? Fork this repository and start coding!  
+
+### 🔗 **[Click Here to Fork 🚀](https://github.com/your-username/Devil-Crash-V5/fork)**  
+
+👨‍💻 **How to Fork & Clone:**  
+1️⃣ Click the **Fork button** above or [Click Here](https://github.com/your-username/Devil-Crash-V5/fork).  
+2️⃣ Clone your forked repo:  
+```bash
 git clone https://github.com/your-username/Devil-Crash-V5.git
 cd Devil-Crash-V5
-
-# 3️⃣ Make your changes and push
-git add .
-git commit -m "Your Changes"
-git push origin main
+```
 
 Easily deploy **Devil Crash V5** on multiple platforms with one click or using simple commands!  
 
