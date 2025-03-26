@@ -18,7 +18,6 @@
   </svg>
 </p>
 
-![DEVIL CRASH V5](https://svgshare.com/i/Ywx.svg)
 
 
 # 🔥 Private Panel Plans 🔥  
