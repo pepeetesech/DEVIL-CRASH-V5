@@ -92,10 +92,11 @@ Easily deploy **Devil Crash V5** on multiple platforms with one click or using s
 
 ---
 
-<h2 align="center"> 🔥 RUN REPL FOR GET MULTI SESSION QR 🔥 </h2>
+h2 align="center"> 🔥 RUN REPL FOR GET MULTI SESSION QR 🔥 </h2>
 <h2 align="center">  <a href="https://replit.com/@DARK-DEVIL-BOTZ/DDEV-SESSION?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
+
 
 ## 
 - After you getting the `creds.json ` then upload the `creds.json` in the `DDev-BOT` folder. then you can deploy on your favourite platform.
@@ -246,15 +247,26 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 
 
-## DEPLOY ON VPS
+## VPS COMMANDS 2 (*YOU SEE ANY PROBLEM THEN USE SOUND COMMANDS*)
 
 ### **VPS DEPARTMENT COMMMAND:**
 ```bash
-sudo apt update && sudo apt upgrade -y  
-sudo apt install -y nodejs npm git  
-git clone https://github.com/your-repo/Devil-Crash-V5.git  
-cd Devil-Crash-V5  
-npm install  
+
+sudo apt update && sudo apt upgrade -y
+```
+```
+sudo apt install -y nodejs npm git
+```
+```
+git clone https://github.com/your-repo/Devil-Crash-V5.git
+```
+```
+cd Devil-Crash-V5
+```
+```  
+npm install
+```
+```
 npm start
 ```
 📜 Features
