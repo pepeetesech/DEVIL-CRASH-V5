@@ -1,16 +1,24 @@
 # ⚡ DEVIL CRASH V5 BUG BOT ⚡
 
 
-<h1 align="center">
-  <span style="
-    font-size: 50px;
-    font-weight: bold;
-    background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #00ff00, #007bff, #6f00ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;">
-    DEVIL CRASH V5
-  </span>
-</h1>
+<p align="center">
+  <svg width="500" height="100">
+    <text x="50" y="60" font-size="50" font-weight="bold" fill="url(#gradient)">
+      DEVIL CRASH V5
+    </text>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#FF0000; stop-opacity:1" />
+        <stop offset="25%" style="stop-color:#FF7300; stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#FFEB00; stop-opacity:1" />
+        <stop offset="75%" style="stop-color:#00FF00; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#007BFF; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
+
+![DEVIL CRASH V5](https://svgshare.com/i/Ywx.svg)
 
 
 # 🔥 Private Panel Plans 🔥  
