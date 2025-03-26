@@ -1,6 +1,16 @@
 # ⚡ DEVIL CRASH V5 BUG BOT ⚡
 
 
+<h1 style="
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #ff0000;
+  text-shadow: 3px 3px 5px #000000, 5px 5px 10px #ff6600, 7px 7px 15px #ffff00;">
+  DEVIL CRASH V5
+</h1>
+
+
 # 🔥 Private Panel Plans 🔥  
 
 We offer **powerful hosting plans** for your bot deployment. Choose the best plan that suits your needs!  
