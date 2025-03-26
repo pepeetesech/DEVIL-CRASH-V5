@@ -1,13 +1,15 @@
 # ⚡ DEVIL CRASH V5 BUG BOT ⚡
 
 
-<h1 style="
-  font-size: 50px;
-  font-weight: bold;
-  text-align: center;
-  color: #ff0000;
-  text-shadow: 3px 3px 5px #000000, 5px 5px 10px #ff6600, 7px 7px 15px #ffff00;">
-  DEVIL CRASH V5
+<h1 align="center">
+  <span style="
+    font-size: 50px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #00ff00, #007bff, #6f00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;">
+    DEVIL CRASH V5
+  </span>
 </h1>
 
 
