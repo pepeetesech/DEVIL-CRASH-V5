@@ -14,6 +14,9 @@ We offer **powerful hosting plans** for your bot deployment. Choose the best pla
 | **Ultimate**    | `Unlimited`| `Unlimited` | `Unlimited` | **$4**  |
 
 💵 **[Buy Now](https://t.me/devil_xking) → Get Your Private Panel Today!**
+💰 **5GB PANEL [BUY](https://t.me/devil_xking) AND ENJOY**
+💰 **10 GB PANEL [BUY](https://t.me/devil_xking) AND ENJOY**
+💰 **UNLIMITED PANEL [BUY](https://t.me/devil_xking) AND ENJOY**
 
 ## 🚀 Deploy on Any Platform  
 
@@ -92,9 +95,11 @@ npm start
 
 Need help or have any questions? Feel free to reach out!  
 
-💬 **Telegram Support:** [@devil_xking](https://t.me/devil_xking)  
+💬 **Telegram Support:** [CLICK](https://t.me/devil_xking)  
+👾**Whatsapp:** [CLICK](https://whatsapp.com/channel/0029Vb2zlJP1CYoLCdr1k13f)
 🌍 **Website:** [Coming Soon]  
-📧 **Email:** support@devilhosting.com  
+📧 **Email:** [CLICK](githubdegil@gmail.com)
+📞**DEV NUMBER:** [CALL](+916001736850)
 
 📌 **Join our community for updates, bug reports, and support!**
 
