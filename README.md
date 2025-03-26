@@ -2,14 +2,15 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/SwXCGwB/image.png" alt="DEVIL CRASH V5" width="500">
+  <img src="https://i.ibb.co/SwXCGwBS"
+    alt="DEVIL CRASH V5" width="500">
 </p>
 
 
 
 
 
-![DEVIL CRASH V5](https://i.ibb.co/SwXCGwB/image.png)
+![DEVIL CRASH V5](https://i.ibb.co/SwXCGwBS)
 
 
 
