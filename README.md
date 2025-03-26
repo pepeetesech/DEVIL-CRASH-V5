@@ -107,7 +107,7 @@ h2 align="center"> 🔥 RUN REPL FOR GET MULTI SESSION QR 🔥 </h2>
 </h2>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/DARK-DEVIL-BOTZ/DDev-BOT">
+    <a href="https://heroku.com/deploy?template=https://github.com/Devilxking789/DEVIL-CRASH-V5">
     <img title="DDEV ON HEROKU" src="https://www.herokucdn.com/deploy/button.png" width="189px" alt="Deploy on Heroku" >
     </a>
 </p>
