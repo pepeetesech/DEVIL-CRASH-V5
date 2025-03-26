@@ -93,18 +93,126 @@ Easily deploy **Devil Crash V5** on multiple platforms with one click or using s
 
 ---
 
-## 📱 Deploy on Termux 
+<h2 align="center"> 🕑 DEPLOY ON CODESPACE 🕑
+</h2>
+<h2 align="center">  <a href="https://github.com/codespaces/new"><img title="DDEV on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+</h2>
+     
+   <br>
+  </br>
 
-### **Termux Deployment Command:**  
-```bash
-pkg update && pkg upgrade  
-pkg install nodejs  
-git clone https://github.com/Devilxking789/Devil-Crash-V5.git  
-cd Devil-Crash-V5  
-npm install  
-npm start
 
+  <h2 align="center"> 🌝 DEPLOY ON MOGENIUS 💰
+</h2>
+<h2 align="center">  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="DDEV on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
+</a>
+</h2>
+     
+    
+   <br>
+  </br>
+
+
+<h2 align="center"> 💰 DEPLOY ON RAILWAY 💰
+</h2>
+<h2 align="center">  <a href="https://railway.app/new"><img title="DDEV on Railway"src="https://railway.app/button.svg" />
+</a>
+</h2>
+
+     
+
+   <br>
+   </br>
+     
+<br>
+<br>
+<br>
+<br>
+     
+     
+     
+- Termux
+```js
+termux-setup-storage
 ```
+```
+apt update
+```
+```
+apt upgrade
+```
+```
+pkg update && pkg upgrade
+```
+```
+pkg install bash
+```
+```
+pkg install libwebp
+```
+```
+pkg install git -y
+```
+```
+pkg install nodejs -y
+```
+```
+pkg install ffmpeg -y 
+```
+```
+pkg install wget
+```
+```
+pkg install imagemagick -y
+```
+```
+git clone https://github.com/DARK-DEVIL-BOTZ/DDev-BOT.git
+```
+```
+cd DDev-BOT
+```
+```
+npm i
+```
+```
+npm start
+```
+
+- Command For 24/7
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
+
+
+
+</br> <br>
+<h2 align="center"> 🛡️ WINDOWS AND VS CODE CMDS 🛡️
+</h2>
+
+* [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
+* [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
+* [`Download Node JS`](https://nodejs.org/en/download/)
+* [`Download Git`](https://git-scm.com/downloads)
+* [`Download Libwebp`](https://developers.google.com/speed/webp/download)
+```cmd
+> git clone https://github.com/DARK-DEVIL-BOTZ/DDev-BOT.git
+```
+```
+> cd DDev-BOT
+```
+```
+> npm i
+```
+```
+> npm start
+```
+- Command For 24/7
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
+
+
 ## DEPLOY ON VPS
 
 ### **VPS DEPARTMENT COMMMAND:**
