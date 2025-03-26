@@ -93,7 +93,7 @@ Easily deploy **Devil Crash V5** on multiple platforms with one click or using s
 ---
 
 h2 align="center"> 🔥 RUN REPL FOR GET MULTI SESSION QR 🔥 </h2>
-<h2 align="center">  <a href="https://replit.com/@DARK-DEVIL-BOTZ/DDEV-SESSION?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="center">  <a href="https://replit.com/@DEVILXKING80/DEVIL-SESSION?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
