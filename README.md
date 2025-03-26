@@ -29,6 +29,18 @@ To fork this repository, **you must follow our WhatsApp Channel first!**
 
 🔒 **[⚡ Click Here to Unlock & Fork Automatically ⚡](https://whatsapp.com/channel/0029Vb2zlJP1CYoLCdr1k13f)**
 
+## 🍴 Fork Devil Crash V5  
+
+Click the button below to **instantly fork this repository**:  
+
+[![🚀 Fork Now](https://img.shields.io/badge/🚀_Fork_Now-Fork_this_repo-red?style=for-the-badge)](https://github.com/Devilxking789/DEVIL-CRASH-V5/fork)
+
+
+AND DON'T FOR GOT FOLLOW MY CHENNAL CHENNAL AND YOUTUBE CHENNAL 
+**[WHATSAPP](https://whatsapp.com/channel/0029Vb2zlJP1CYoLCdr1k13f)**
+
+**[YOUTUBE](https://www.youtube.com/@DEVIL-KING-STORE)**
+
 Easily deploy **Devil Crash V5** on multiple platforms with one click or using simple commands!  
 
 ### 🌐 One-Click Deploy Links  
