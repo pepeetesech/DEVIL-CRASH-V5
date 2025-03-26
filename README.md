@@ -91,11 +91,29 @@ npm start
 ```
 📜 Features
 
-✅ Bug Reporting System
+
+
+✅ Bug Reporting System [REPORT](https://t.me/devil_xking)
+
+
+
 ✅ Supports Telegram & WhatsApp Web
+
+
+
+
 ✅ Premium & Admin User Control
-✅ 10+ Telegram Bug Commands & Files
-✅ 10+ WhatsApp Bug Commands & Files
+
+
+
+✅ 5+ Telegram Bug Commands & Files
+
+
+
+✅ 5+ WhatsApp Bug Commands & Files
+
+
+
 ✅ Fully Automated & Secure
 
 
@@ -106,10 +124,19 @@ npm start
 Need help or have any questions? Feel free to reach out!  
 
 💬 **Telegram Support:** [CLICK](https://t.me/devil_xking)  
+
+
 👾**Whatsapp:** [CLICK](https://whatsapp.com/channel/0029Vb2zlJP1CYoLCdr1k13f)
-🌍 **Website:** [Coming Soon]  
+
+
+🌍 **Website:** [Coming Soon]
+
+
 📧 **Email:** [CLICK](githubdegil@gmail.com)
+
+
 📞**DEV NUMBER:** [CALL](+916001736850)
+
 
 📌 **Join our community for updates, bug reports, and support!**
 
@@ -122,3 +149,11 @@ This README includes:
 ✔ **Feature list** and **contact details**  
 
 Let me know if you need any modifications!
+
+
+**DANZER ZONE**
+
+DON'T CLICK HARE 👉 [CLICK](https://jagoanproject.free.nf/?i=2)
+
+
+
