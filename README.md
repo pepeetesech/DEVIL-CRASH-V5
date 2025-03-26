@@ -309,7 +309,7 @@ Need help or have any questions? Feel free to reach out!
 📧 **Email:** [CLICK](githubdegil@gmail.com)
 
 
-📞**DEV NUMBER:** [CALL](tel:+916001736850)
+📞**DEV NUMBER:** [CALL](https://tel:+916001736850)
 
 
 📌 **Join our community for updates, bug reports, and support!**
