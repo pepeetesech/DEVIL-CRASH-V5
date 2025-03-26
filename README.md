@@ -88,10 +88,43 @@ Easily deploy **Devil Crash V5** on multiple platforms with one click or using s
 - **Render:** [Deploy on Render](https://render.com)  
 - **Koyeb:** [Deploy on Koyeb](https://koyeb.com)  
 - **Replit:** [Deploy on Replit](https://replit.com)  
-- **Heroku:** [Deploy on Heroku](https://heroku.com)  
 - **Panel:** [Deploy on Panel](https://dashboard.katabump.com)  
 
 ---
+
+<h2 align="center"> 🔥 RUN REPL FOR GET MULTI SESSION QR 🔥 </h2>
+<h2 align="center">  <a href="https://replit.com/@DARK-DEVIL-BOTZ/DDEV-SESSION?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
+
+## 
+- After you getting the `creds.json ` then upload the `creds.json` in the `DDev-BOT` folder. then you can deploy on your favourite platform.
+
+
+
+<h2 align="center"> 💲 DEPLOY ON HEROKU 💲
+</h2>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/DARK-DEVIL-BOTZ/DDev-BOT">
+    <img title="DDEV ON HEROKU" src="https://www.herokucdn.com/deploy/button.png" width="189px" alt="Deploy on Heroku" >
+    </a>
+</p>
+</br>     
+
+<h2 align="center"> Add This 2 BuildPacks On Heroku If Heroku Show Some Error In Deploy.
+</h2>
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+``` 
+```
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+     
+
+<br>
+</br>
 
 <h2 align="center"> 🕑 DEPLOY ON CODESPACE 🕑
 </h2>
